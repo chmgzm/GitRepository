@@ -3,3 +3,4 @@ Git is free software.
 Hello World!
 你好，世界！
 要永远相信自己！
+Yes, I can!
